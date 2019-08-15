@@ -38,6 +38,8 @@ Seleccionar pelo menos as seguintes intervenções:
   - Nesta avaliação devo consultar as "Vigilâncias" e ver a frequências das dejecções nos últimos 3 dias
 ```
 
+[Back to top](#indice)
+
 ### Uso do foco Eliminação Urinária
 ##### FOCO: Maceração
 ##### Avaliação Diagnóstica: Avaliar risco de maceração
@@ -68,6 +70,8 @@ Seleccionar pelo menos as seguintes intervenções:
 - [x] Avaliar Risco de Maceração (SOS, dado que o utente irá continuar a usar fralda e assim não é expectável que o risco se altere) 
 
 ```
+
+[Back to top](#indice)
 
 ### Sonda Vesical Domicilio
 ##### FOCO: Infecção
@@ -115,4 +119,5 @@ registar as características da urina. A presença de piúria, por exemplo, é suges
 
 ```
 
+[Back to top](#indice)
 
