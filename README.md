@@ -5,6 +5,7 @@
   2. [Eliminação](#eliminação)
      1. [**[Foco:]** Eliminação Intestinal](#foco-eliminação-intestinal)
      2. [**[Foco:]** Eliminação Urinária](#foco-eliminação-urinária)
+     3. [O utente traz sonda vesical do domicilio](#sonda-vesical-domicilio)
 
 
 ## Alimentação
@@ -57,7 +58,47 @@ Seleccionar pelo menos as seguintes intervenções:
   - Verificar se está funcional, e bem adaptada ao utente
 - [x] Trocar fralda (SOS)
   - Deve ficar em SOS pela impossibilidade de prever a hora das micções
-- [x] Avaliar Risco de Maceração (SOS) 
+- [x] Avaliar Risco de Maceração (SOS, dado que o utente irá continuar a usar fralda e assim não é expectável que o risco se altere) 
 
 ```
+
+### Sonda Vesical Domicilio
+* Neste caso o Foco principal de atenção do enfermeiro é o Risco de Infecção (associado com a sonda vesical) 
+* Outra preocupação é saber a data de colocação da sonda, bem como o tipo de sonda, para depois calcular a data da sua substituição
+
+_Porquê?:_  Porque o simples facto de se ter uma sonda vesical já aumenta o risco de vir a ter uma infecção urinária
+_Porquê?:_  Porque uma sonda vesical carece de cuidados de higiene e posicionamento do saco colector, diários
+_Porquê?:_  Porque se a urina for concentrada, infere-se daí, uma diminuição da ingestão hidrica
+_Porquê?:_  Porque se o utente apresentar piúria ou urina com odor fétido, infere-se daí, existência de infecção urinária
+
+``` 
+/* Recomendação 1*/
+
+Dado que no SClínico, o consultar de informações prévias, nem sempre é fácil e intuitivo, sugere-se como boa prática, registar no campo de "Observações" da Avaliação Inicial, se tem sonda, que tipo, que tamanho e qual a data de colocação
+
+```
+
+``` 
+/* Recomendação 2*/
+
+Usar o foco **"Infecção"** e avaliar **"Avaliar Risco de Infecção"**
+
+Seleccionar pelo menos as seguintes intervenções:
+- [x] Optimizar cateter urinário (Sem horário) [NORMA]
+  - Nas "Normas" deve ser selecionado:
+	- algaliação crónica
+  	- manter saco abaixo do nível
+	- higiene no meato 
+- [x] Trocar cateter urinário (Dia e turno fixo, e.g. 30dias após data de colocação)
+- [x] Avaliar Risco de Infecção (SOS, dado que o utente irá manter a sonda e assim não é expectável que o risco se altere) 
+
+```
+
+``` 
+/* Em Falta */
+
+Associado com o diagnóstico de **"Risco de Infecção presente (associado com sonda vesical9"**, deveria ser possível seleccionar a intervenção **"Vigiar eliminação urinária"** para se poder registar as características da urina. A presença de piúria, por exemplo, é sugestivo de infecção.
+
+```
+
 
