@@ -3,8 +3,8 @@
 ## Índice:
   1. [Alimentação](#alimentação)
   2. [Eliminação](#eliminação)
-     1. [**[Foco:]** Eliminação Intestinal](#uso-do-foco-eliminação-intestinal)
-     2. [**[Foco:]** Eliminação Urinária](#uso-do-foco-eliminação-urinária)
+     1. [Uso do foco Eliminação Intestinal](#uso-do-foco-eliminação-intestinal)
+     2. [Uso do foco Eliminação Urinária](#uso-do-foco-eliminação-urinária)
      3. [O utente traz sonda vesical do domicilio](#sonda-vesical-domicilio)
 
 
