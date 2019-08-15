@@ -1,13 +1,13 @@
 # SClínico: guia de uso
 
 ## Índice:
-1. Alimentação
-2. Eliminação
-- **FOCO: Eliminação Intestinal**
-- **FOCO: Obstipação**
+1. [Alimentação]
+2. ]Eliminação]
+ - [**FOCO: Eliminação Intestinal**]
+ - [**FOCO: Obstipação**]
 
 
-### Foco: Elimicação Intestinal
+### Foco: Eliminação Intestinal
 * Quando o que queremos é manter uma vigilância do número de dejecções, não devemos abrir um foco onde declaramos o utente como incontinente intestinal
 
 _Porquê?:_ 
@@ -33,7 +33,7 @@ Seleccionar pelo menos as seguintes intervenções:
 ```
 
 
-### Foco: Elimicação Urinária
+### Foco: Eliminação Urinária
 * Quando o que queremos é manter uma vigilância do número e caracteristicas das micções, não devemos abrir um foco onde declaramos o utente como incontinente urinário
 
 _Porquê?:_ 
