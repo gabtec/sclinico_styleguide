@@ -38,7 +38,7 @@ Seleccionar pelo menos as seguintes intervenções:
   - Nesta avaliação devo consultar as "Vigilâncias" e ver a frequências das dejecções nos últimos 3 dias
 ```
 
-[Back to top](#indice)
+[Back to top](#índice)
 
 ### Uso do foco Eliminação Urinária
 ##### FOCO: Maceração
@@ -71,7 +71,7 @@ Seleccionar pelo menos as seguintes intervenções:
 
 ```
 
-[Back to top](#indice)
+[Back to top](#índice)
 
 ### Sonda Vesical Domicilio
 ##### FOCO: Infecção
@@ -119,5 +119,5 @@ registar as características da urina. A presença de piúria, por exemplo, é suges
 
 ```
 
-[Back to top](#indice)
+[Back to top](#índice)
 
