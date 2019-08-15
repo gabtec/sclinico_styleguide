@@ -3,13 +3,18 @@
 ## Índice:
   1. [Alimentação](#alimentação)
   2. [Eliminação](#eliminação)
-     1. [**[Foco:]** Eliminação Intestinal](#foco-eliminação-intestinal)
-     2. [**[Foco:]** Eliminação Urinária](#foco-eliminação-urinária)
+     1. [**[Foco:]** Eliminação Intestinal](#uso-do-foco-eliminação-intestinal)
+     2. [**[Foco:]** Eliminação Urinária](#uso-do-foco-eliminação-urinária)
      3. [O utente traz sonda vesical do domicilio](#sonda-vesical-domicilio)
 
 
 ## Alimentação
-### Foco: Eliminação Intestinal
+
+## Eliminação
+### Uso do foco Eliminação Intestinal
+##### FOCO: Obstipação
+##### Avaliação Diagnóstica: Avaliar risco de obstipação
+
 * Quando o que queremos é manter uma vigilância do número de dejecções, não devemos abrir um foco onde declaramos o utente como incontinente intestinal
 
 _Porquê?:_  Porque o foco não permite a criação de um diagnóstico correcto, por falta de parametrização
@@ -33,8 +38,10 @@ Seleccionar pelo menos as seguintes intervenções:
   - Nesta avaliação devo consultar as "Vigilâncias" e ver a frequências das dejecções nos últimos 3 dias
 ```
 
-## Eliminação
-### Foco: Eliminação Urinária
+### Uso do foco Eliminação Urinária
+##### FOCO: Maceração
+##### Avaliação Diagnóstica: Avaliar risco de maceração
+
 * Quando o que queremos é manter uma vigilância do número e caracteristicas das micções, não devemos abrir um foco onde declaramos o utente como incontinente urinário
 
 _Porquê?:_  Porque o foco não permite a criação de um diagnóstico correcto, por falta de parametrização
@@ -63,6 +70,9 @@ Seleccionar pelo menos as seguintes intervenções:
 ```
 
 ### Sonda Vesical Domicilio
+##### FOCO: Infecção
+##### Avaliação Diagnóstica: Avaliar risco de infecção
+
 * Neste caso o Foco principal de atenção do enfermeiro é o Risco de Infecção (associado com a sonda vesical) 
 * Outra preocupação é saber a data de colocação da sonda, bem como o tipo de sonda, para depois calcular a data da sua substituição
 
@@ -74,14 +84,16 @@ _Porquê?:_  Porque se o utente apresentar piúria ou urina com odor fétido, infer
 ``` 
 /* Recomendação 1*/
 
-Dado que no SClínico, o consultar de informações prévias, nem sempre é fácil e intuitivo, sugere-se como boa prática, registar no campo de "Observações" da Avaliação Inicial, se tem sonda, que tipo, que tamanho e qual a data de colocação
+Dado que no SClínico, o consultar de informações prévias, nem sempre é fácil e intuitivo, 
+sugere-se como boa prática, registar no campo de "Observações" da Avaliação Inicial, se 
+tem sonda, que tipo, que tamanho e qual a data de colocação
 
 ```
 
 ``` 
 /* Recomendação 2*/
 
-Usar o foco **"Infecção"** e avaliar **"Avaliar Risco de Infecção"**
+Usar o foco "Infecção" e avaliar "Avaliar Risco de Infecção"
 
 Seleccionar pelo menos as seguintes intervenções:
 - [x] Optimizar cateter urinário (Sem horário) [NORMA]
@@ -97,7 +109,9 @@ Seleccionar pelo menos as seguintes intervenções:
 ``` 
 /* Em Falta */
 
-Associado com o diagnóstico de **"Risco de Infecção presente (associado com sonda vesical9"**, deveria ser possível seleccionar a intervenção **"Vigiar eliminação urinária"** para se poder registar as características da urina. A presença de piúria, por exemplo, é sugestivo de infecção.
+Associado com o diagnóstico de "Risco de Infecção presente (associado com sonda vesical)", 
+deveria ser possível seleccionar a intervenção "Vigiar eliminação urinária" para se poder 
+registar as características da urina. A presença de piúria, por exemplo, é sugestivo de infecção.
 
 ```
 
