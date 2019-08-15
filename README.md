@@ -3,17 +3,15 @@
 ## Índice:
   1. [Alimentação](#alimentação)
   2. [Eliminação](#eliminação)
-   2.1 [**FOCO: Eliminação Intestinal**](#foco-eliminação-intestinal)
-   2.2 [**FOCO: Obstipação**](#foco-eliminação-urinária)
+   1. [**FOCO: Eliminação Intestinal**](#foco-eliminação-intestinal)
+   2. [**FOCO: Eliminação Urinária(#foco-eliminação-urinária)
 
 
 ## Alimentação
 ### Foco: Eliminação Intestinal
 * Quando o que queremos é manter uma vigilância do número de dejecções, não devemos abrir um foco onde declaramos o utente como incontinente intestinal
 
-_Porquê?:_ 
-
-1º Porque o foco não permite a criação de um diagnóstico correcto, por falta de parametrização
+_Porquê?:_  Porque o foco não permite a criação de um diagnóstico correcto, por falta de parametrização
 
 ``` 
 /* evitar */
@@ -38,9 +36,7 @@ Seleccionar pelo menos as seguintes intervenções:
 ### Foco: Eliminação Urinária
 * Quando o que queremos é manter uma vigilância do número e caracteristicas das micções, não devemos abrir um foco onde declaramos o utente como incontinente urinário
 
-_Porquê?:_
-
-1º Porque o foco não permite a criação de um diagnóstico correcto, por falta de parametrização
+_Porquê?:_  1º Porque o foco não permite a criação de um diagnóstico correcto, por falta de parametrização
 
 ``` 
 /* evitar */
