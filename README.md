@@ -3,8 +3,8 @@
 ## Índice:
   1. [Alimentação](#alimentação)
   2. [Eliminação](#eliminação)
-   1. [**FOCO: Eliminação Intestinal**](#foco-eliminação-intestinal)
-   2. [**FOCO: Eliminação Urinária(#foco-eliminação-urinária)
+     1. [**[Foco:] Eliminação Intestinal**](#foco-eliminação-intestinal)
+     2. [**[Foco:] Eliminação Urinária**](#foco-eliminação-urinária)
 
 
 ## Alimentação
