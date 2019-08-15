@@ -1,4 +1,5 @@
-# SClínico: guia de uso
+# SClínico: recomendações de uso
+###### Aviso: tratam-se de recomendações e não de um guia oficial de uso
 
 ## Índice:
   1. [Alimentação](#alimentação)
@@ -12,9 +13,9 @@
 ## Alimentação
 
 ### Colocação de SNG
-*FOCO:* Deglutição
-*Avaliação Diagnóstica:* Avaliar deglutição (basta registar os que têm asterisco vermelho)
-*Diagnóstico:* Deglutição comprometida, me grau elevado
+> *FOCO:* Deglutição
+> *Avaliação Diagnóstica:* Avaliar deglutição (basta registar os que têm asterisco vermelho)
+> *Diagnóstico:* Deglutição comprometida, me grau elevado
 
 * Quando se coloca uma SNG porque o utente não deglute (e.g. por estar prostrado ou comatoso)
 * Outra forma de registar é quando o médico prescreve "Intubação nasogástrica" (será abordado futuramente)
