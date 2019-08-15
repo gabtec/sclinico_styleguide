@@ -14,11 +14,11 @@
 
 ### Colocação de SNG
 
-> ``**`Foco:`**` Deglutição`
+> `**`Foco:`**` Deglutição
 
-> *Avaliação Diagnóstica:* Avaliar deglutição (basta registar os que têm asterisco vermelho)
+> `**`Avaliação Diagnóstica:`**` Avaliar deglutição (basta registar os que têm asterisco vermelho)
 
-> *Diagnóstico:* Deglutição comprometida, me grau elevado
+> `**`Diagnóstico:`**` Deglutição comprometida, me grau elevado
 
 * Quando se coloca uma SNG porque o utente não deglute (e.g. por estar prostrado ou comatoso)
 * Outra forma de registar é quando o médico prescreve "Intubação nasogástrica" (será abordado futuramente)
