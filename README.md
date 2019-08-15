@@ -27,9 +27,9 @@ Usar o foco **"Obstipação"** e avaliar **"Avaliar Risco de Obstipação"**
 Um utente acamado, por exemplo, vai ter risco de obstipação.
 
 Seleccionar pelo menos as seguintes intervenções:
-- [x] **Vigiar eliminação intestinal** (Sem horário)
-- [x] **Avaliar Risco de Obstipação** (3/3 dias) 
- - Nesta avaliação devo consultar as "Vigilâncias" e ver a frequências das dejecções nos últimos 3 dias
+- [x] Vigiar eliminação intestinal (Sem horário)
+- [x] Avaliar Risco de Obstipação (3/3 dias) 
+  - Nesta avaliação devo consultar as "Vigilâncias" e ver a frequências das dejecções nos últimos 3 dias
 ```
 
 ## Eliminação
@@ -52,12 +52,12 @@ Usar o foco **"Maceração"** e avaliar **"Avaliar Risco de Maceração"**
 Um utente que use fralda e tenha uma elevada frequência urinária, fica exposto a um maior risco de maceração da pele perineal.
 
 Seleccionar pelo menos as seguintes intervenções:
-- [x] **Vigiar eliminação urinária** (Sem horário)
-- [x] **Optimizar fralda** (Sem horário)
- - Verificar se está funcional, e bem adaptada ao utente
-- [x] **Trocar fralda** (SOS)
- - Deve ficar em SOS pela impossibilidade de prever a hora das micções
-- [x] **Avaliar Risco de Maceração** (SOS) 
+- [x] Vigiar eliminação urinária (Sem horário)
+- [x] Optimizar fralda (Sem horário)
+  - Verificar se está funcional, e bem adaptada ao utente
+- [x] Trocar fralda (SOS)
+  - Deve ficar em SOS pela impossibilidade de prever a hora das micções
+- [x] Avaliar Risco de Maceração (SOS) 
 
 ```
 
