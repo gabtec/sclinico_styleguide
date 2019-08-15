@@ -16,9 +16,9 @@
 
 > **`Foco:`**` Deglutição`
 
-> `**`Avaliação Diagnóstica:`**` Avaliar deglutição (basta registar os que têm asterisco vermelho)
+> **`Avaliação Diagnóstica:`**` Avaliar deglutição (basta registar os que têm asterisco vermelho)`
 
-> `**`Diagnóstico:`**` Deglutição comprometida, me grau elevado
+> **`Diagnóstico:`**` Deglutição comprometida, me grau elevado`
 
 * Quando se coloca uma SNG porque o utente não deglute (e.g. por estar prostrado ou comatoso)
 * Outra forma de registar é quando o médico prescreve "Intubação nasogástrica" (será abordado futuramente)
@@ -56,8 +56,12 @@ Intervenções:
 
 ## Eliminação
 ### Uso do foco Eliminação Intestinal
-##### FOCO: Obstipação
-##### Avaliação Diagnóstica: Avaliar risco de obstipação
+
+> **`Foco:`**` Obstipação`
+
+> **`Avaliação Diagnóstica:`**` Avaliar risco de obstipação`
+
+> **`Diagnóstico:`**` Risco de obstipação, presente`
 
 * Quando o que queremos é manter uma vigilância do número de dejecções, não devemos abrir um foco onde declaramos o utente como incontinente intestinal
 
@@ -85,8 +89,14 @@ Seleccionar pelo menos as seguintes intervenções:
 [Back to top](#índice)
 
 ### Uso do foco Eliminação Urinária
-##### FOCO: Maceração
-##### Avaliação Diagnóstica: Avaliar risco de maceração
+
+
+> **`Foco:`**` Maceração`
+
+> **`Avaliação Diagnóstica:`**` Avaliar risco de maceração`
+
+> **`Diagnóstico:`**` Risco de maceração, presente`
+
 
 * Quando o que queremos é manter uma vigilância do número e caracteristicas das micções, não devemos abrir um foco onde declaramos o utente como incontinente urinário
 
@@ -118,8 +128,12 @@ Seleccionar pelo menos as seguintes intervenções:
 [Back to top](#índice)
 
 ### Sonda Vesical Domicilio
-##### FOCO: Infecção
-##### Avaliação Diagnóstica: Avaliar risco de infecção
+
+> **`Foco:`**` Infecção`
+
+> **`Avaliação Diagnóstica:`**` Avaliar risco de infecção`
+
+> **`Diagnóstico:`**` Risco de infecção, presente`
 
 * Neste caso o Foco principal de atenção do enfermeiro é o Risco de Infecção (associado com a sonda vesical) 
 * Outra preocupação é saber a data de colocação da sonda, bem como o tipo de sonda, para depois calcular a data da sua substituição
