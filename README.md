@@ -13,8 +13,11 @@
 ## Alimentação
 
 ### Colocação de SNG
-> *FOCO:* Deglutição
+
+> *Foco:* Deglutição
+
 > *Avaliação Diagnóstica:* Avaliar deglutição (basta registar os que têm asterisco vermelho)
+
 > *Diagnóstico:* Deglutição comprometida, me grau elevado
 
 * Quando se coloca uma SNG porque o utente não deglute (e.g. por estar prostrado ou comatoso)
