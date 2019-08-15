@@ -7,24 +7,58 @@
 - **FOCO: Obstipação**
 
 
-## Foco: Elimicação Intestinal
+### Foco: Elimicação Intestinal
 * Quando o que queremos é manter uma vigilância do número de dejecções, não devemos abrir um foco onde declaramos o utente como incontinente intestinal
-_Porquê?:_ 1º Porque o foco não permite a criação de um diagnóstico, por falta de parametrização
-2º Porque ao Avaliar Eliminação intestinal vamos ter de considerar o utente incontinente o que nem sempre é verda
+
+_Porquê?:_ 
+1º Porque o foco não permite a criação de um diagnóstico correcto, por falta de parametrização
 
 ``` 
 /* evitar */
 
-usar o foco
+Usar o foco
+
 ```
 
 ``` 
 /* recomendado*/
 
 Usar o foco "Obstipação" e avaliar "Avaliar Risco de Obstipação"
-Um utente acamado, por exemplo, vai ter risco de obstipação. Depois podemos definir duas atitudes:
+Um utente acamado, por exemplo, vai ter risco de obstipação.
+
+Seleccionar pelo menos as seguintes intervenções:
 - [x] Vigiar eliminação intestinal (Sem horário)
 - [x] Avaliar Risco de Obstipação (3/3 dias) 
  - Nesta avaliação devo consultar as "Vigilâncias" e ver a frequências das dejecções nos últimos 3 dias
+```
+
+
+### Foco: Elimicação Urinária
+* Quando o que queremos é manter uma vigilância do número e caracteristicas das micções, não devemos abrir um foco onde declaramos o utente como incontinente urinário
+
+_Porquê?:_ 
+1º Porque o foco não permite a criação de um diagnóstico correcto, por falta de parametrização
+
+``` 
+/* evitar */
+
+Usar o foco
+
+```
+
+``` 
+/* recomendado*/
+
+Usar o foco "Maceração" e avaliar "Avaliar Risco de Maceração"
+Um utente que use fralda e tenha uma elevada frequência urinária, fica exposto a um maior risco de maceração da pele perineal.
+
+Seleccionar pelo menos as seguintes intervenções:
+- [x] Vigiar eliminação urinária(Sem horário)
+- [x] Optimizar fralda (Sem horário)
+ - Verificar se está funcional, e bem adaptada ao utente
+- [x] Trocar fralda (SOS)
+ - Deve ficar em SOS pela impossibilidade de prever a hora das micções
+- [x] Avaliar Risco de Maceração(SOS) 
+
 ```
 
