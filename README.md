@@ -2,6 +2,7 @@
 
 ## Índice:
   1. [Alimentação](#alimentação)
+     1. [Coloquei uma SNG](#colocação-de-SNG)
   2. [Eliminação](#eliminação)
      1. [Uso do foco Eliminação Intestinal](#uso-do-foco-eliminação-intestinal)
      2. [Uso do foco Eliminação Urinária](#uso-do-foco-eliminação-urinária)
@@ -9,6 +10,45 @@
 
 
 ## Alimentação
+
+### Colocação de SNG
+*FOCO:* Deglutição
+*Avaliação Diagnóstica:* Avaliar deglutição (basta registar os que têm asterisco vermelho)
+*Diagnóstico:* Deglutição comprometida, me grau elevado
+
+* Quando se coloca uma SNG porque o utente não deglute (e.g. por estar prostrado ou comatoso)
+* Outra forma de registar é quando o médico prescreve "Intubação nasogástrica" (será abordado futuramente)
+* Outra forma de registar é quando o utente não ingere alimentos em quantidade e qualidade, para as suas necessidades (será abordado futuramente)
+
+_Porquê?:_  Porque não deglutindo tem risco de aspiração de conteúdo alimentar para as vias aéreas
+_Porquê?:_  Porque não deglutindo tem risco de desnutrição
+
+
+``` 
+/* recomendado*/
+
+Usar o foco "Deglutição" e avaliar "Avaliar Deglutição"
+
+Seleccionar pelo menos as seguintes intervenções:
+- [x] Avaliar deglutição (SOS ou semanalmente, se for expectável que o diagnóstico se altere)
+- [x] Inserir sonda gástrica (Agora)
+- [x] Optimizar sonda gástrica (Sem horário)
+- [x] Trocar sonda gástrica (Dia e hora fixa, e.g. 30 dias)
+- [x] Vigiar referição (Sem horário)
+  - Embora esta intervenção pareça não fazer sentido, permite registar que foi alimentado por SNG e escrever alguma outra observação em trexto normal (usar com ponderação)
+```
+
+```
+/* recomendado */
+Usar foco "Autocuidado: Comer"
+
+... em construção ...
+Intervenções:
+- Alimentar por sonda (Sem horário)
+
+```
+
+[Back to top](#índice)
 
 ## Eliminação
 ### Uso do foco Eliminação Intestinal
