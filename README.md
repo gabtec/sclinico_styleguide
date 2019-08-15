@@ -14,7 +14,7 @@
 
 ### Colocação de SNG
 
-> `**`Foco:`**` Deglutição
+> **`Foco:`**` Deglutição`
 
 > `**`Avaliação Diagnóstica:`**` Avaliar deglutição (basta registar os que têm asterisco vermelho)
 
