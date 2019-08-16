@@ -1,71 +1,75 @@
-# SClínico: recomendações de uso
-###### Aviso: tratam-se de recomendações e não de um guia oficial de uso
 
-## Índice:
-  1. [Alimentação](#alimentação)
-     1. [Coloquei uma SNG](#colocação-de-SNG)
-  2. [Eliminação](#eliminação)
-     1. [Uso do foco Eliminação Intestinal](#uso-do-foco-eliminação-intestinal)
-     2. [Uso do foco Eliminação Urinária](#uso-do-foco-eliminação-urinária)
+# SClï¿½nico: recomendaï¿½ï¿½es de uso
+
+> Aviso: tratam-se de recomendaï¿½ï¿½es e nï¿½o de um guia oficial de uso
+
+## ï¿½ndice
+
+  1. [Alimentaï¿½ï¿½o](#alimentaï¿½ï¿½o)
+     1. [Coloquei uma SNG](#colocaï¿½ï¿½o-de-SNG)
+  2. [Eliminaï¿½ï¿½o](#eliminaï¿½ï¿½o)
+     1. [Uso do foco Eliminaï¿½ï¿½o Intestinal](#uso-do-foco-eliminaï¿½ï¿½o-intestinal)
+     2. [Uso do foco Eliminaï¿½ï¿½o Urinï¿½ria](#uso-do-foco-eliminaï¿½ï¿½o-urinï¿½ria)
      3. [O utente traz sonda vesical do domicilio](#sonda-vesical-domicilio)
 
 
-## Alimentação
+## Alimentaï¿½ï¿½o
 
-### Colocação de SNG
+### Colocaï¿½ï¿½o de SNG
 
-> **`Foco:`**` Deglutição`
+### Caso de Uso
 
-> **`Avaliação Diagnóstica:`**` Avaliar deglutição (basta registar os que têm asterisco vermelho)`
+* O utente nï¿½o deglute, ou tem a deglutiÃ§Ã£o severamente comprometida (e.g. por estar prostrado ou comatoso)
+* Outra forma de registar ï¿½ quando o mï¿½dico prescreve "Intubaï¿½ï¿½o nasogï¿½strica" (serï¿½ abordado futuramente)
+* Outra forma de registar ï¿½ quando o utente nï¿½o ingere alimentos em quantidade e qualidade, para as suas necessidades (serï¿½ abordado futuramente)
 
-> **`Diagnóstico:`**` Deglutição comprometida, me grau elevado`
+> **`Foco:`** `Deglutiï¿½ï¿½o`
 
-* Quando se coloca uma SNG porque o utente não deglute (e.g. por estar prostrado ou comatoso)
-* Outra forma de registar é quando o médico prescreve "Intubação nasogástrica" (será abordado futuramente)
-* Outra forma de registar é quando o utente não ingere alimentos em quantidade e qualidade, para as suas necessidades (será abordado futuramente)
+> **`Avaliaï¿½ï¿½o Diagnï¿½stica:`** `Avaliar deglutiï¿½ï¿½o (basta registar os que tï¿½m asterisco vermelho)`
 
-_Porquê?:_  Porque não deglutindo tem risco de aspiração de conteúdo alimentar para as vias aéreas
-_Porquê?:_  Porque não deglutindo tem risco de desnutrição
+> **`Diagnï¿½stico:`** `Deglutiï¿½ï¿½o comprometida, me grau elevado`
 
 
-``` 
-/* recomendado*/
 
-Usar o foco "Deglutição" e avaliar "Avaliar Deglutição"
+_Porquï¿½?:_  Porque nï¿½o deglutindo tem risco de aspiraï¿½ï¿½o de conteï¿½do alimentar para as vias aï¿½reas
 
-Seleccionar pelo menos as seguintes intervenções:
-- [x] Avaliar deglutição (SOS ou semanalmente, se for expectável que o diagnóstico se altere)
-- [x] Inserir sonda gástrica (Agora)
-- [x] Optimizar sonda gástrica (Sem horário)
-- [x] Trocar sonda gástrica (Dia e hora fixa, e.g. 30 dias)
-- [x] Vigiar referição (Sem horário)
-  - Embora esta intervenção pareça não fazer sentido, permite registar que foi alimentado por SNG e escrever alguma outra observação em trexto normal (usar com ponderação)
-```
+_Porquï¿½?:_  Porque nï¿½o deglutindo tem risco de desnutriï¿½ï¿½o
+
+> /* IntervenÃ§Ãµes mÃ­nimas recomendadas */
+
+- [x] expectï¿½vel que o diagnï¿½stico se altere)  
+- [x] Inserir sonda gï¿½strica (Agora)  
+- [x] Optimizar sonda gï¿½strica (Sem horï¿½rio)  
+- [x] Trocar sonda gï¿½strica (Dia e hora fixa, e.g. 30 dias) 
+- [x] Vigiar referiï¿½ï¿½o (Sem horï¿½rio)  
+Embora esta intervenï¿½ï¿½o pareï¿½a nï¿½o fazer sentido, permite registar que foi alimentado por SNG e escrever alguma outra observaï¿½ï¿½o em trexto normal (usar com ponderaï¿½ï¿½o)  
+
 
 ```
 /* recomendado */
 Usar foco "Autocuidado: Comer"
 
-... em construção ...
-Intervenções:
-- Alimentar por sonda (Sem horário)
+... em construï¿½ï¿½o ...
+Intervenï¿½ï¿½es:
+- Alimentar por sonda (Sem horï¿½rio)
 
 ```
 
-[Back to top](#índice)
+[Back to top](#ï¿½ndice)
 
-## Eliminação
-### Uso do foco Eliminação Intestinal
+## Eliminaï¿½ï¿½o
 
-> **`Foco:`**` Obstipação`
+### Uso do foco Eliminaï¿½ï¿½o Intestinal
 
-> **`Avaliação Diagnóstica:`**` Avaliar risco de obstipação`
+> **`Foco:`** `Obstipaï¿½ï¿½o`
 
-> **`Diagnóstico:`**` Risco de obstipação, presente`
+> **`Avaliaï¿½ï¿½o Diagnï¿½stica:`** `Avaliar risco de obstipaï¿½ï¿½o`
 
-* Quando o que queremos é manter uma vigilância do número de dejecções, não devemos abrir um foco onde declaramos o utente como incontinente intestinal
+> **`Diagnï¿½stico:`** `Risco de obstipaï¿½ï¿½o, presente`
 
-_Porquê?:_  Porque o foco não permite a criação de um diagnóstico correcto, por falta de parametrização
+* Quando o que queremos ï¿½ manter uma vigilï¿½ncia do nï¿½mero de dejecï¿½ï¿½es, nï¿½o devemos abrir um foco onde declaramos o utente como incontinente intestinal
+
+_Porquï¿½?:_  Porque o foco nï¿½o permite a criaï¿½ï¿½o de um diagnï¿½stico correcto, por falta de parametrizaï¿½ï¿½o
 
 ``` 
 /* evitar */
@@ -77,30 +81,30 @@ Usar o foco
 ``` 
 /* recomendado*/
 
-Usar o foco **"Obstipação"** e avaliar **"Avaliar Risco de Obstipação"**
-Um utente acamado, por exemplo, vai ter risco de obstipação.
+Usar o foco **"Obstipaï¿½ï¿½o"** e avaliar **"Avaliar Risco de Obstipaï¿½ï¿½o"**
+Um utente acamado, por exemplo, vai ter risco de obstipaï¿½ï¿½o.
 
-Seleccionar pelo menos as seguintes intervenções:
-- [x] Vigiar eliminação intestinal (Sem horário)
-- [x] Avaliar Risco de Obstipação (3/3 dias) 
-  - Nesta avaliação devo consultar as "Vigilâncias" e ver a frequências das dejecções nos últimos 3 dias
+Seleccionar pelo menos as seguintes intervenï¿½ï¿½es:
+- [x] Vigiar eliminaï¿½ï¿½o intestinal (Sem horï¿½rio)
+- [x] Avaliar Risco de Obstipaï¿½ï¿½o (3/3 dias) 
+  - Nesta avaliaï¿½ï¿½o devo consultar as "Vigilï¿½ncias" e ver a frequï¿½ncias das dejecï¿½ï¿½es nos ï¿½ltimos 3 dias
 ```
 
-[Back to top](#índice)
+[Back to top](#ï¿½ndice)
 
-### Uso do foco Eliminação Urinária
-
-
-> **`Foco:`**` Maceração`
-
-> **`Avaliação Diagnóstica:`**` Avaliar risco de maceração`
-
-> **`Diagnóstico:`**` Risco de maceração, presente`
+### Uso do foco Eliminaï¿½ï¿½o Urinï¿½ria
 
 
-* Quando o que queremos é manter uma vigilância do número e caracteristicas das micções, não devemos abrir um foco onde declaramos o utente como incontinente urinário
+> **`Foco:`** `Maceraï¿½ï¿½o`
 
-_Porquê?:_  Porque o foco não permite a criação de um diagnóstico correcto, por falta de parametrização
+> **`Avaliaï¿½ï¿½o Diagnï¿½stica:`** `Avaliar risco de maceraï¿½ï¿½o`
+
+> **`Diagnï¿½stico:`** `Risco de maceraï¿½ï¿½o, presente`
+
+
+* Quando o que queremos ï¿½ manter uma vigilï¿½ncia do nï¿½mero e caracteristicas das micï¿½ï¿½es, nï¿½o devemos abrir um foco onde declaramos o utente como incontinente urinï¿½rio
+
+_Porquï¿½?:_  Porque o foco nï¿½o permite a criaï¿½ï¿½o de um diagnï¿½stico correcto, por falta de parametrizaï¿½ï¿½o
 
 ``` 
 /* evitar */
@@ -112,70 +116,69 @@ Usar o foco
 ``` 
 /* recomendado*/
 
-Usar o foco **"Maceração"** e avaliar **"Avaliar Risco de Maceração"**
-Um utente que use fralda e tenha uma elevada frequência urinária, fica exposto a um maior risco de maceração da pele perineal.
+Usar o foco **"Maceraï¿½ï¿½o"** e avaliar **"Avaliar Risco de Maceraï¿½ï¿½o"**
+Um utente que use fralda e tenha uma elevada frequï¿½ncia urinï¿½ria, fica exposto a um maior risco de maceraï¿½ï¿½o da pele perineal.
 
-Seleccionar pelo menos as seguintes intervenções:
-- [x] Vigiar eliminação urinária (Sem horário)
-- [x] Optimizar fralda (Sem horário)
-  - Verificar se está funcional, e bem adaptada ao utente
+Seleccionar pelo menos as seguintes intervenï¿½ï¿½es:
+- [x] Vigiar eliminaï¿½ï¿½o urinï¿½ria (Sem horï¿½rio)
+- [x] Optimizar fralda (Sem horï¿½rio)
+  - Verificar se estï¿½ funcional, e bem adaptada ao utente
 - [x] Trocar fralda (SOS)
-  - Deve ficar em SOS pela impossibilidade de prever a hora das micções
-- [x] Avaliar Risco de Maceração (SOS, dado que o utente irá continuar a usar fralda e assim não é expectável que o risco se altere) 
+  - Deve ficar em SOS pela impossibilidade de prever a hora das micï¿½ï¿½es
+- [x] Avaliar Risco de Maceraï¿½ï¿½o (SOS, dado que o utente irï¿½ continuar a usar fralda e assim nï¿½o ï¿½ expectï¿½vel que o risco se altere)
 
 ```
 
-[Back to top](#índice)
+[Back to top](#ï¿½ndice)
 
 ### Sonda Vesical Domicilio
 
-> **`Foco:`**` Infecção`
+> **`Foco:`** `Infecï¿½ï¿½o`
 
-> **`Avaliação Diagnóstica:`**` Avaliar risco de infecção`
+> **`Avaliaï¿½ï¿½o Diagnï¿½stica:`** `Avaliar risco de infecï¿½ï¿½o`
 
-> **`Diagnóstico:`**` Risco de infecção, presente`
+> **`Diagnï¿½stico:`** `Risco de infecï¿½ï¿½o, presente`
 
-* Neste caso o Foco principal de atenção do enfermeiro é o Risco de Infecção (associado com a sonda vesical) 
-* Outra preocupação é saber a data de colocação da sonda, bem como o tipo de sonda, para depois calcular a data da sua substituição
+* Neste caso o Foco principal de atenï¿½ï¿½o do enfermeiro ï¿½ o Risco de Infecï¿½ï¿½o (associado com a sonda vesical)
+* Outra preocupaï¿½ï¿½o ï¿½ saber a data de colocaï¿½ï¿½o da sonda, bem como o tipo de sonda, para depois calcular a data da sua substituiï¿½ï¿½o
 
-_Porquê?:_  Porque o simples facto de se ter uma sonda vesical já aumenta o risco de vir a ter uma infecção urinária
-_Porquê?:_  Porque uma sonda vesical carece de cuidados de higiene e posicionamento do saco colector, diários
-_Porquê?:_  Porque se a urina for concentrada, infere-se daí, uma diminuição da ingestão hidrica
-_Porquê?:_  Porque se o utente apresentar piúria ou urina com odor fétido, infere-se daí, existência de infecção urinária
+_Porquï¿½?:_  Porque o simples facto de se ter uma sonda vesical jï¿½ aumenta o risco de vir a ter uma infecï¿½ï¿½o urinï¿½ria
+_Porquï¿½?:_  Porque uma sonda vesical carece de cuidados de higiene e posicionamento do saco colector, diï¿½rios
+_Porquï¿½?:_  Porque se a urina for concentrada, infere-se daï¿½, uma diminuiï¿½ï¿½o da ingestï¿½o hidrica
+_Porquï¿½?:_  Porque se o utente apresentar piï¿½ria ou urina com odor fï¿½tido, infere-se daï¿½, existï¿½ncia de infecï¿½ï¿½o urinï¿½ria
 
 ``` 
-/* Recomendação 1*/
+/* Recomendaï¿½ï¿½o 1*/
 
-Dado que no SClínico, o consultar de informações prévias, nem sempre é fácil e intuitivo, 
-sugere-se como boa prática, registar no campo de "Observações" da Avaliação Inicial, se 
-tem sonda, que tipo, que tamanho e qual a data de colocação
+Dado que no SClï¿½nico, o consultar de informaï¿½ï¿½es prï¿½vias, nem sempre ï¿½ fï¿½cil e intuitivo, 
+sugere-se como boa prï¿½tica, registar no campo de "Observaï¿½ï¿½es" da Avaliaï¿½ï¿½o Inicial, se 
+tem sonda, que tipo, que tamanho e qual a data de colocaï¿½ï¿½o
 
 ```
 
 ``` 
-/* Recomendação 2*/
+/* Recomendaï¿½ï¿½o 2*/
 
-Usar o foco "Infecção" e avaliar "Avaliar Risco de Infecção"
+Usar o foco "Infecï¿½ï¿½o" e avaliar "Avaliar Risco de Infecï¿½ï¿½o"
 
-Seleccionar pelo menos as seguintes intervenções:
-- [x] Optimizar cateter urinário (Sem horário) [NORMA]
+Seleccionar pelo menos as seguintes intervenï¿½ï¿½es:
+- [x] Optimizar cateter urinï¿½rio (Sem horï¿½rio) [NORMA]
   - Nas "Normas" deve ser selecionado:
-	- algaliação crónica
-  	- manter saco abaixo do nível
-	- higiene no meato 
-- [x] Trocar cateter urinário (Dia e turno fixo, e.g. 30dias após data de colocação)
-- [x] Avaliar Risco de Infecção (SOS, dado que o utente irá manter a sonda e assim não é expectável que o risco se altere) 
+	- algaliaï¿½ï¿½o crï¿½nica
+  	- manter saco abaixo do nï¿½vel
+	- higiene no meato
+- [x] Trocar cateter urinï¿½rio (Dia e turno fixo, e.g. 30dias apï¿½s data de colocaï¿½ï¿½o)
+- [x] Avaliar Risco de Infecï¿½ï¿½o (SOS, dado que o utente irï¿½ manter a sonda e assim nï¿½o ï¿½ expectï¿½vel que o risco se altere)
 
 ```
 
 ``` 
 /* Em Falta */
 
-Associado com o diagnóstico de "Risco de Infecção presente (associado com sonda vesical)", 
-deveria ser possível seleccionar a intervenção "Vigiar eliminação urinária" para se poder 
-registar as características da urina. A presença de piúria, por exemplo, é sugestivo de infecção.
+Associado com o diagnï¿½stico de "Risco de Infecï¿½ï¿½o presente (associado com sonda vesical)", 
+deveria ser possï¿½vel seleccionar a intervenï¿½ï¿½o "Vigiar eliminaï¿½ï¿½o urinï¿½ria" para se poder 
+registar as caracterï¿½sticas da urina. A presenï¿½a de piï¿½ria, por exemplo, ï¿½ sugestivo de infecï¿½ï¿½o.
 
 ```
 
-[Back to top](#índice)
-
+[Back to top](#ï¿½ndice)
