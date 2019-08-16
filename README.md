@@ -127,16 +127,16 @@ Dado que no SClínico, o consultar de informações prévias, nem sempre é fác
 
 > Intervenções mínimas recomendadas
 
-[x] Optimizar cateter urinário (Sem horário) [NORMA]  
+- [x] Avaliar Risco de Infecção (SOS, dado que o utente irá manter a sonda e assim não é expectável que o risco se altere)  
+- [x] Trocar cateter urinário (Dia e turno fixo, e.g. 30dias após data de colocação)  
+- [x] Optimizar cateter urinário (Sem horário) [NORMA]  
 * Algaliação crónica  
 * Manter saco abaixo do nível  
 * Higiene do meato  
-
-[x] Trocar cateter urinário (Dia e turno fixo, e.g. 30dias após data de colocação)  
-[x] Avaliar Risco de Infecção (SOS, dado que o utente irá manter a sonda e assim não é expectável que o risco se altere)  
 
 > Em falta
 
 Associado com o diagnóstico de "Risco de Infecção presente (associado com sonda vesical)", deveria ser possível seleccionar a intervenção "Vigiar eliminação urinária" para se poder registar as características da urina. A presençaa de piúria, por exemplo, é sugestivo de infecção.
 
 [Back to top](#índice)
+
