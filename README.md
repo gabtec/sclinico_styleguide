@@ -98,9 +98,9 @@ Evitar usar o foco "Eliminação Urinária", neste contexto
 
 [x] Vigiar eliminação urinária (Sem horário)  
 [x] Optimizar fralda (Sem horário)  
-  - Entende-se por Optimizar, verificar se está funcional, e bem adaptada ao utente  
+Entende-se por Optimizar, verificar se está funcional, e bem adaptada ao utente  
 [x] Trocar fralda (SOS)  
-  - Deve ficar em SOS pela impossibilidade de prever a hora das micções  
+Deve ficar em SOS pela impossibilidade de prever a hora das micções  
 [x] Avaliar Risco de Maceração (SOS, dado que o utente irá continuar a usar fralda e assim não é expectável que o risco se altere)  
 
 [Back to top](#índice)
