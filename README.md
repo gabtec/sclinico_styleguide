@@ -28,7 +28,7 @@
 
 > **`Diagnóstico:`** `Deglutição comprometida, em grau elevado`
 
-_Porquê?:_  Porque não deglutindo tem risco de aspiração de conteúdo alimentar para as vias a�reas  
+_Porquê?:_  Porque não deglutindo tem risco de aspiração de conteúdo alimentar para as vias aéreas  
 
 _Porquê?:_  Porque não deglutindo tem risco de desnutrição  
 
@@ -39,7 +39,7 @@ _Porquê?:_  Porque não deglutindo tem risco de desnutrição
  [x] Optimizar sonda gástrica (Sem horário)  
  [x] Trocar sonda gástrica (Dia e hora fixa, e.g. 30 dias)  
  [x] Vigiar refeição (Sem horário)  
-Embora esta intervenção pareçaa não fazer sentido, permite registar que foi alimentado por SNG e escrever alguma outra observação em texto normal (usar com ponderação)  
+Embora esta intervenção pareça não fazer sentido, permite registar que foi alimentado por SNG e escrever alguma outra observação em texto normal (usar com ponderação)  
 
 > Recomendação  
 
@@ -67,7 +67,7 @@ _Porquê?:_  Porque assim vamos ter um contexto muito mais explícito
 
 > Evitar
 
-Evitar usar este foco, neste contexto
+Evitar usar o foco "Eliminação Intestinal", neste contexto
 
 > Intervenções mínimas recomendadas
 
@@ -92,13 +92,13 @@ _Porquê?:_  POrque um utente que use fralda e tenha uma elevada frequência uri
 
 > Evitar
 
-Evitar usar este foco, neste contexto
+Evitar usar o foco "Eliminação Urinária", neste contexto
 
 > Intervenções mínimas recomendadas
 
 [x] Vigiar eliminação urinária (Sem horário)
 [x] Optimizar fralda (Sem horário)
-  - Verificar se está funcional, e bem adaptada ao utente  
+  - Entende-se por Optimizar, verificar se está funcional, e bem adaptada ao utente  
 [x] Trocar fralda (SOS)
   - Deve ficar em SOS pela impossibilidade de prever a hora das micções  
 [x] Avaliar Risco de Maceração (SOS, dado que o utente irá continuar a usar fralda e assim não é expectável que o risco se altere)
