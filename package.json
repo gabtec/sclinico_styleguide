@@ -1,0 +1,19 @@
+{
+  "name": "sclinico_styleguide",
+  "version": "1.0.0",
+  "description": "Recomendações de uso CIPE/SClinico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabtec/sclinico_styleguide.git"
+  },
+  "author": "Gabriel Martins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabtec/sclinico_styleguide/issues"
+  },
+  "homepage": "https://github.com/gabtec/sclinico_styleguide#readme"
+}
