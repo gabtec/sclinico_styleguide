@@ -34,11 +34,11 @@ _Porquê?:_  Porque não deglutindo tem risco de desnutrição
 
 > Intervenções mínimas recomendadas
 
- [x] Avaliar deglutição (SOS, se não for expectável que o diagnóstico se altere)  
- [x] Inserir sonda gástrica (Agora)  
- [x] Optimizar sonda gástrica (Sem horário)  
- [x] Trocar sonda gástrica (Dia e hora fixa, e.g. 30 dias)  
- [x] Vigiar refeição (Sem horário)  
+- [x] Avaliar deglutição (SOS, se não for expectável que o diagnóstico se altere)  
+- [x] Inserir sonda gástrica (Agora)  
+- [x] Optimizar sonda gástrica (Sem horário)  
+- [x] Trocar sonda gástrica (Dia e hora fixa, e.g. 30 dias)  
+- [x] Vigiar refeição (Sem horário)  
 Embora esta intervenção pareça não fazer sentido, permite registar que foi alimentado por SNG e escrever alguma outra observação em texto normal (usar com ponderação)  
 
 > Recomendação  
@@ -71,8 +71,8 @@ Evitar usar o foco "Eliminação Intestinal", neste contexto
 
 > Intervenções mínimas recomendadas
 
-[x] Vigiar eliminação intestinal (Sem horário)  
-[x] Avaliar Risco de Obstipação (3/3 dias)  
+- [x] Vigiar eliminação intestinal (Sem horário)  
+- [x] Avaliar Risco de Obstipação (3/3 dias)  
 Nesta avaliação devo consultar as "Vigilâncias" e ver a frequência das dejecções nos últimos 3 dias  
 
 [Back to top](#índice)
@@ -96,12 +96,12 @@ Evitar usar o foco "Eliminação Urinária", neste contexto
 
 > Intervenções mínimas recomendadas
 
-[x] Vigiar eliminação urinária (Sem horário)  
-[x] Optimizar fralda (Sem horário)  
+- [x] Vigiar eliminação urinária (Sem horário)  
+- [x] Optimizar fralda (Sem horário)  
 Entende-se por Optimizar, verificar se está funcional, e bem adaptada ao utente  
-[x] Trocar fralda (SOS)  
+- [x] Trocar fralda (SOS)  
 Deve ficar em SOS pela impossibilidade de prever a hora das micções  
-[x] Avaliar Risco de Maceração (SOS, dado que o utente irá continuar a usar fralda e assim não é expectável que o risco se altere)  
+- [x] Avaliar Risco de Maceração (SOS, dado que o utente irá continuar a usar fralda e assim não é expectável que o risco se altere)  
 
 [Back to top](#índice)
 
