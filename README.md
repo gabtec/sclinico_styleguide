@@ -118,7 +118,7 @@ Deve ficar em SOS pela impossibilidade de prever a hora das micções
 
 _Porquê?:_  Porque o simples facto de se ter uma sonda vesical já aumenta o risco de vir a ter uma infecção urinária  
 _Porquê?:_  Porque uma sonda vesical carece de cuidados de higiene e posicionamento do saco colector, diários  
-_Porquê?:_  Porque se a urina for concentrada, infere-se da�, uma diminuição da ingestão hídrica
+_Porquê?:_  Porque se a urina for concentrada, infere-se daí, uma diminuição da ingestão hídrica
 _Porquê?:_  Porque se o utente apresentar piúria ou urina com odor fétido, infere-se daí existência de infecção urinária  
 
 > Recomendação 1
@@ -128,9 +128,10 @@ Dado que no SClínico, o consultar de informações prévias, nem sempre é fác
 > Intervenções mínimas recomendadas
 
 [x] Optimizar cateter urinário (Sem horário) [NORMA]  
-	[x] Algaliação crónica  
-  [x] Manter saco abaixo do nível  
-	[x] Higiene do meato  
+* Algaliação crónica  
+* Manter saco abaixo do nível  
+* Higiene do meato  
+
 [x] Trocar cateter urinário (Dia e turno fixo, e.g. 30dias após data de colocação)  
 [x] Avaliar Risco de Infecção (SOS, dado que o utente irá manter a sonda e assim não é expectável que o risco se altere)  
 
