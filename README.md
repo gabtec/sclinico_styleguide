@@ -30,30 +30,23 @@
 > **`Diagn�stico:`** `Degluti��o comprometida, me grau elevado`
 
 
+_Porqu�?:_  Porque n�o deglutindo tem risco de aspira��o de conte�do alimentar para as vias a�reas  
 
-_Porqu�?:_  Porque n�o deglutindo tem risco de aspira��o de conte�do alimentar para as vias a�reas
+_Porqu�?:_  Porque n�o deglutindo tem risco de desnutri��o  
 
-_Porqu�?:_  Porque n�o deglutindo tem risco de desnutri��o
+> Intervenções mínimas recomendadas
 
-> /* Intervenções mínimas recomendadas */
-
-- [x] expect�vel que o diagn�stico se altere)  
-- [x] Inserir sonda g�strica (Agora)  
-- [x] Optimizar sonda g�strica (Sem hor�rio)  
-- [x] Trocar sonda g�strica (Dia e hora fixa, e.g. 30 dias) 
-- [x] Vigiar referi��o (Sem hor�rio)  
+ [x] expect�vel que o diagn�stico se altere)  
+ [x] Inserir sonda g�strica (Agora)  
+ [x] Optimizar sonda g�strica (Sem hor�rio)  
+ [x] Trocar sonda g�strica (Dia e hora fixa, e.g. 30 dias) 
+ [x] Vigiar referi��o (Sem hor�rio)  
 Embora esta interven��o pare�a n�o fazer sentido, permite registar que foi alimentado por SNG e escrever alguma outra observa��o em trexto normal (usar com pondera��o)  
 
+> Recomendação  
 
-```
-/* recomendado */
-Usar foco "Autocuidado: Comer"
-
-... em constru��o ...
-Interven��es:
-- Alimentar por sonda (Sem hor�rio)
-
-```
+**Associar o foco "Autocuidado: Comer"**  
+_Porquê?:_ Porque vai permitir seleccionar a intervenção "Alimentar por sonda gástrica" (Sem horário, se alimentação contínua)  
 
 [Back to top](#�ndice)
 
