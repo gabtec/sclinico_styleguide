@@ -11,7 +11,7 @@
      1. [Uso do foco Eliminação Intestinal](#uso-do-foco-eliminação-intestinal)
      2. [Uso do foco Eliminação Urinária](#uso-do-foco-eliminação-urinária)
      3. [O utente traz sonda vesical do domicilio](#sonda-vesical-domicilio)
-     4. [O utente traz colostomia do domicilio](#colostomia-domicilio)
+     4. [O utente traz colostomia do domicilio](#colostomia-do-domicilio)
 
 ## Alimentação
 
