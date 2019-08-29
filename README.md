@@ -11,6 +11,7 @@
      1. [Uso do foco Eliminação Intestinal](#uso-do-foco-eliminação-intestinal)
      2. [Uso do foco Eliminação Urinária](#uso-do-foco-eliminação-urinária)
      3. [O utente traz sonda vesical do domicilio](#sonda-vesical-domicilio)
+     4. [O utente traz colostomia do domicilio](#colostomia-domicilio)
 
 ## Alimentação
 
@@ -137,6 +138,28 @@ Dado que no SClínico, o consultar de informações prévias, nem sempre é fác
 > Em falta
 
 Associado com o diagnóstico de "Risco de Infecção presente (associado com sonda vesical)", deveria ser possível seleccionar a intervenção "Vigiar eliminação urinária" para se poder registar as características da urina. A presençaa de piúria, por exemplo, é sugestivo de infecção.
+
+[Back to top](#índice)
+
+### Colostomia do Domicilio
+
+> **`Foco:`** `AutoCuidado`
+
+> **`Avaliação Diagnóstica:`** `Avaliar autocuidado da ostomia de eliminação`
+
+> **`Diagnóstico:`** `Autocuidado da ostomia de eliminação, dependente`
+
+* Geralmente um utente quando é submetido a colostomia/ileostomia, recebe ensinos para ser capaz de cuidar da mesma. No caso em que o utente necessita que seja o enfermeiro a prestar esses cuidados, o foco será o Autocuidado, dado que o utente tem de ser auxiliado/substituido nessas tarefas.
+
+> Intervenções mínimas recomendadas
+
+- [x] Trocar saco de colostomia/ileostomia (SOS)
+- [x] Vigiar pele periférica ao estoma (Sem horário)
+- [x] Optimizar dispositivo de ostomia (por exemplo, vazar o saco) (Sem horário/SOS)
+- [x] Optimizar ostomia de eliminação (por exemplo, re-adaptar o saco de 2 peças) (Sem horário/SOS)
+
+> SOS
+O utente pode ter risco de obstipação / diarreia, e esse poderá ser outro foco de atenção, associado.
 
 [Back to top](#índice)
 
