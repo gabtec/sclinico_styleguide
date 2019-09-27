@@ -100,6 +100,7 @@ Nesta avaliação devo consultar as "Vigilâncias" e ver a frequência das dejec
 > Evitar
 
 Evitar usar o foco "Incontinência Urinária", neste contexto
+
 _Porquê?:_  Porque o foco não permite a criação de um diagnóstico correcto, por falta de parametrização  
 _Porquê?:_  Porque o diagnóstico de Incontinência Urinária, deve ser mais especifico
 
