@@ -80,22 +80,30 @@ Nesta avaliação devo consultar as "Vigilâncias" e ver a frequência das dejec
 
 ### Uso do foco Eliminação Urinária
 
+* Quando se pretende manter apenas vigilância das caracteristicas e frequência das micções:
+
+> **`Foco:`** `Eliminação Urinária`
+
+> **`Avaliação Diagnóstica:`** `Não se faz diagnóstico, porque trata-se apenas de uma Vigilância`
+
+> **`Intervenções:`** `Vigiar eliminação urinária (Sem horário)`
+
+* Quando temos um utente com micções muito frequentes e que apresenta risco elevado de maceração cutânea, podemos criar um diagnóstico, associado.
+
 > **`Foco:`** `Maceração`
 
 > **`Avaliação Diagnóstica:`** `Avaliar risco de maceração`
 
 > **`Diagnóstico:`** `Risco de maceração, presente`
-
-* Quando o que queremos é manter uma vigilância do número e caracteristicas das micções, não devemos abrir um foco onde declaramos o utente como incontinente urinário  
-
-_Porquê?:_  Porque o foco não permite a criação de um diagnóstico correcto, por falta de parametrização  
-_Porquê?:_  POrque um utente que use fralda e tenha uma elevada frequência urinária, fica exposto a um maior risco de maceração da pele perineal  
+ 
 
 > Evitar
 
-Evitar usar o foco "Eliminação Urinária", neste contexto
+Evitar usar o foco "Incontinência Urinária", neste contexto
+_Porquê?:_  Porque o foco não permite a criação de um diagnóstico correcto, por falta de parametrização  
+_Porquê?:_  Porque o diagnóstico de Incontinência Urinária, deve ser mais especifico
 
-> Intervenções mínimas recomendadas
+> Intervenções mínimas recomendadas (vindas dos focos: Eliminação Urinária e Maceração)
 
 - [x] Vigiar eliminação urinária (Sem horário)  
 - [x] Optimizar fralda (Sem horário)  
